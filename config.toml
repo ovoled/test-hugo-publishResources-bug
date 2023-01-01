@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+disableKinds = ['taxonomy', 'term', 'RSS', 'sitemap']
+relativeURLs = true
+
+[cascade._build]
+publishResources = false
